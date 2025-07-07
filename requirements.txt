@@ -1,0 +1,16 @@
+# Telegram Bot Framework
+python-telegram-bot[persistence]
+
+# Environment Variable Management
+python-dotenv
+
+# AI & Machine Learning
+torch
+transformers
+safetensors
+Pillow
+numpy<2.0
+cachetools
+
+# Video Processing
+ffmpeg-python
